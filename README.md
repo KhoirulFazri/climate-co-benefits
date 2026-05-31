@@ -46,7 +46,7 @@ This interactive dashboard visualizes the **co-benefits** of climate policies (s
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/FirmanRcode/climate-co-benefits-app.git
+    git clone https://github.com/KhoirulFazri/climate-co-benefits.git
     cd climate-co-benefits-app
     ```
 
@@ -75,7 +75,7 @@ This interactive dashboard visualizes the **co-benefits** of climate policies (s
 
 ## 📧 Contact & Credits
 
-**Developed by**: Khoirul Fazri nurrokhman And Team
+**Developed by**: Khoirul Fazri nurrokhman and Team
 **Goal**: Visual Data Science Competition Entry / Portfolio
 
 ---
