@@ -75,7 +75,7 @@ This interactive dashboard visualizes the **co-benefits** of climate policies (s
 
 ## 📧 Contact & Credits
 
-**Developed by**: Restu Firmansyah
+**Developed by**: Khoirul Fazri nurrokhman And Team
 **Goal**: Visual Data Science Competition Entry / Portfolio
 
 ---
